@@ -2,6 +2,12 @@
 
 A delightful match-3 puzzle game built with React where you swap colorful candies to create sweet combinations!
 
+## 📸 Screenshots
+
+![Sweet Swap Game Screenshot](screenshots/gameplay.png)
+
+*Main gameplay showing the colorful candy grid and scoring system*
+
 ## 🎮 How to Play
 
 - **Swap** adjacent candies to create matches of 3 or more
