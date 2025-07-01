@@ -4,7 +4,7 @@ A delightful match-3 puzzle game built with React where you swap colorful candie
 
 ## 📸 Screenshots
 
-![Sweet Swap Game Screenshot](screenshots/gameplay.png)
+![Sweet Swap Game Screenshot](![image](https://github.com/user-attachments/assets/d1247e30-9611-4c77-b34b-ee5e8b9190dc))
 
 *Main gameplay showing the colorful candy grid and scoring system*
 
